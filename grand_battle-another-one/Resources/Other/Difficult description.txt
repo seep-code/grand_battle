@@ -1,0 +1,20 @@
+Beginner difficulty (I'm Too Young to Die):
+1) Guaranted drop from every enemy
+2) 3 additional lifes in every attempt
+3) Slow turrets and bullets
+
+Medium difficulty (Hurt Me Plenty):
+1) 70% chance of drop from every enemy
+2) 2 additional lifes in every attempt
+3) Normal reaction of turrets and bullets speed
+
+Hard difficulty (Ultra Violence):
+1) 35% chance of drop from every enemy
+2) 1 additional life in every attempt
+3) Very fast reaction of turrets and bullets speed
+
+Insane difficulty (Nightmare):
+1) Any drop is absent
+2) Additional lifes is absent
+3) Perfect reaction of turrets and bullets speed
+4) No hope...
